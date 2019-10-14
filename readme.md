@@ -30,4 +30,5 @@ authed.register("authed@example.com", "example", "license", function(response) {
 ```js
 authed.generateLicence("authed.io", 1, 0, 50, function(response) {
 	console.log(response);
-});```
+});
+```
