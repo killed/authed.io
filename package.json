@@ -1,0 +1,25 @@
+{
+  "name": "authed.io",
+  "version": "1.0.7",
+  "description": "API wrapper for authed.io",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "removal",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/expectations/authed.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/expectations/authed.io/issues"
+  },
+  "homepage": "https://authed.io"
+}
