@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/expectations/authed.io.git"
+    "url": "git+ssh://git@github.com/killed/authed.io.git"
   },
   "bugs": {
-    "url": "https://github.com/expectations/authed.io/issues"
+    "url": "https://github.com/killed/authed.io/issues"
   },
   "homepage": "https://authed.io"
 }
